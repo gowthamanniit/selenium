@@ -1,0 +1,49 @@
+-->goto this website
+https://chromedriver.chromium.org/downloads
+
+-->version selection click
+
+--> the Chrome for Testing (CfT) availability dashboard.(option click)
+
+--> open automattically this page
+https://googlechromelabs.github.io/chrome-for-testing/
+
+--> copy path ( win64 chrome )
+
+ex:
+https://storage.googleapis.com/chrome-for-testing-
+public/121.0.6167.184/win64/chrome-win64.zip
+
+copy this path:
+
+new tab in browser --> paste path
+
+enter(downloaded automattically)
+
+------
+copy downloaded .zip file
+
+paste in your folder
+
+right click -->extract all / here
+
+install selenium:
+=================
+start --> run --> appdata --> local--> programs
+python-->python312-->scripts
+
+address bar : cmd type
+
+c:\....\.....\scripts> pip install selenium
+
+how to check installed or not ?
+
+c:\..\.........\scripts>pip list
+
+
+``how to upgrade pip?(latest)
+
+c:\...\scripts> python.exe -m pip install --upgrade pip
+
+
+
